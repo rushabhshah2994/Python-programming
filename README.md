@@ -1,1 +1,7 @@
 # Python-programming
+
+#Flight - A new startup airline is needing help with creating and optimizing a flight schedule.As a data scientist to create and optimize a flight schedule. The airlines will be all business class and cater to business travel. All aircraft are configured exactly the same and can fly any route in the system interchangeably. The airline will serve Dallas Love Field (DAL), Austin Bergstrom (AUS), and Houston Hobby (HOU).
+
+#Healthcar Analytics- The US government has two main single-payer, national social insurance programs. Medicare is for seniors who are age 65 and older who paid into the Medicare system when working (or their spouses paid into the system), and also for persons eligible for disability. Medicaid is for those who are indigent, and also for seniors who never worked and did not pay into the Medicare system (or did not have a spouse who paid into the system). Used Python code to download the latest data set for Hospital Compare from data.medicare.gov and un-compress it into numerous files in csv format and create an SQL based database, create a table to hold each of the files in the data set, and parse and load each of the data files into a table in the database.
+
+#Market Basket Analytics- A new startup company has been selling their products online with several million sales transactions. As a data scientist to design a prototype of a market basket analytics system. The system will look at the products the customer has placed in their online shopping cart and recommend another product.
